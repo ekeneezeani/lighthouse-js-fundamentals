@@ -1,6 +1,3 @@
-const isOdd  = function (num) {
-  return num % 2 !== 0;
-}
-
-console.log("3 is odd: " + isOdd(3));
-console.log("8 is odd: " + isOdd(8));
+let ar = [1,2,2];
+ar.push(1,2);
+console.log(ar)

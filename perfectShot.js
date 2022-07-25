@@ -1,5 +1,6 @@
 const moves = ['north', 'north', 'west', 'west', 'north', 'east','north']
 
+
 function finalPosition(moves){
   let x = 0;
   let y = 0;

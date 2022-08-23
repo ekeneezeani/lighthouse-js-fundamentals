@@ -16,5 +16,4 @@ sayHello("Ferdinand");*/
   return "Hello, " + name;
 }
 const greeting = returnSayHello('John');
-console.log(greeting);*/
-
+console.log(gr

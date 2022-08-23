@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}

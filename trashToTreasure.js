@@ -110,7 +110,7 @@ function judgeVegetable(vegetables, metric){
    // console.log(vegetables[vegetable][metric]+ propertyName[1])
    // + propertyName[1]
   }
-  return console.log(submitter);
+  return submitter;
 }
 
 judgeVegetable(vegetables, "redness");
